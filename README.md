@@ -4,6 +4,8 @@ Projet python permettant de lire un fichier pdf et de le convertir en audio
 ```bash
   pip install PyPDF2
 ```
+# Qu'est-ce que PyPDF2:
+
 La bibliothèque PyPDF2 est une bibliothèque Python qui permet de manipuler des fichiers PDF.
 Voici quelques-unes des principales fonctionnalités de PyPDF2 :
 
@@ -24,6 +26,8 @@ Signature numérique : La bibliothèque prend également en charge la manipulati
 ```bash
 pip install pyttsx3
 ```
+# Qu'est-ce que pyttsx3:
+
 La bibliothèque pyttsx3 en Python est utilisée pour synthétiser la parole à partir de texte. 
   
 Accessibilité : Elle permet d'améliorer l'accessibilité des applications en ajoutant une fonctionnalité de synthèse vocale pour les utilisateurs ayant une déficience visuelle ou ayant besoin d'une assistance auditive.
